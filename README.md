@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="http://q.qlogo.cn/headimg_dl?dst_uin=3487666525&spec=640" width="100" style="border-radius:50%">
+  <h3>Hi, I'm 帆 👋</h3>
+  <p>整合包创作者 | Java程序员</p>
 
-<!--
-**fanziyun/fanziyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Flagship Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+整合包更新日志的json的快捷生成工具  
+[https://github.com/fanziyun/fast-update-json](https://github.com/fanziyun/fast-update-json)
+
+---
+
+## Technologies Mastered
+
+<img src="https://skills.syvixor.com/api/icons?i=html,css,js,java,bash,github,git,idea,linux,arch,windows,ps,chatgpt,7zip,batch,android,androidstudio,gradle,fabricmc&theme=light&perline=6"/>
+
+</div>
