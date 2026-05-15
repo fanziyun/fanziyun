@@ -1,7 +1,7 @@
 <div align="center">
   <img src="http://q.qlogo.cn/headimg_dl?dst_uin=3487666525&spec=640" width="100" style="border-radius:50%">
   <h3>Hi, I'm 帆 👋</h3>
-  <p>整合包创作者 | Java程序员</p>
+  <p>整合包创作者 | Java初学者</p>
 初学者，目前正在学习如何更好的编写代码
  
 
