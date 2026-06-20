@@ -3,14 +3,6 @@
   <h3>Hi, I'm 帆 👋</h3>
   <p>整合包创作者 | Java初学者</p>
 初学者，目前正在学习如何更好的编写代码
- 
-
-## Flagship Project
-
-整合包更新日志的json的快捷生成工具  
-[https://github.com/fanziyun/fast-update-json](https://github.com/fanziyun/fast-update-json)
-
----
 
 ## Technologies Mastered
 
